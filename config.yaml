@@ -1,0 +1,6 @@
+path: D:\\IMG_Processing\\config\\dataset
+train: images/train
+val: images/train
+
+names:
+  0: number-plate
